@@ -1,0 +1,22 @@
+^SERIES = FooGSE
+!Series_name = FooGSE
+^SAMPLE = FooGSM
+!Sample_name = FooGSM
+#a = first column
+#b = second column
+#c = third column
+!sample_table_begin
+a	b	c
+1	2	3
+4	5	6
+!sample_table_end
+^d = FooGPL
+!D_name = FooGPL
+#a = first column
+#b = second column
+#c = third column
+!d_table_begin
+a	b	c
+1	2	3
+4	5	6
+!d_table_end
